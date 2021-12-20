@@ -1,0 +1,242 @@
+﻿[
+    {
+        "id": "1",
+        "title": "The Shawshank Redemption",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "2",
+        "title": "The Godfather",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "3",
+        "title": "The Godfather: Part II",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "4",
+        "title": "Pulp Fiction",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "5",
+        "title": "The Good, the Bad and the Ugly",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "6",
+        "title": "The Dark Knight",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "7",
+        "title": "12 Angry Men",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "8",
+        "title": "Schindler's List",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "9",
+        "title": "The Lord of the Rings: The Return of the King",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "10",
+        "title": "Fight Club",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "11",
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "image": "---",
+        "text" : ""
+        },
+        {
+        "id": "12",
+        "title": "One Flew Over the Cuckoo's Nest",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "13",
+        "title": "Inception",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "14",
+        "title": "Goodfellas",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "15",
+        "title": "Seven Samurai",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "16",
+        "title": "Forrest Gump",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "17",
+        "title": "The Matrix", 
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "18",
+        "title": "Joker",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "19",
+        "title": "Gladiator",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "20",
+        "title": "Se7en",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "21",
+        "title": "The Silence of the Lambs",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "22",
+        "title": "Once Upon a Time in the West",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "23",
+        "title": "The Usual Suspects",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "24",
+        "title": "Psycho",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "25",
+        "title": "Léon: The Professional",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "26",
+        "title": "Cinema Paradiso",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "27",
+        "title": "Django Unchained",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "28",
+        "title": "The Lion King",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "29",
+        "title": "Saving Private Ryan",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "30",
+        "title": "Memento",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "31",
+        "title": "Taxi Driver",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "32",
+        "title": "The Truman Show",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "33",
+        "title": "Modern Times",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "34",
+        "title": "Mad Max: Fury Road",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "35",
+        "title": "Catch Me If You Can",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "36",
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "37",
+        "title": "Life Is Beautiful",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "38",
+        "title": "Troy",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "39",
+        "title": "The Pianist",
+        "image": "---",
+        "text" : ""
+    },
+    {
+        "id": "40",
+        "title": "The Departed",
+        "image": "---",
+        "text" : ""
+    }
+]

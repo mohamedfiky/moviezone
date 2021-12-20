@@ -1,0 +1,2 @@
+﻿object-fit => css property ?
+linear-gradient() ?
